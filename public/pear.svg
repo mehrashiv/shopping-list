@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="468.65942"
+   height="726.89392"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="birne.svg">
+  <title
+     id="title3838">Pear</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="940.49576"
+     inkscape:cy="51.509669"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Pear</dc:title>
+        <dc:date>2015</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>arking</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>pear</rdf:li>
+            <rdf:li>fruit</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1319.0672,143.02205)">
+    <path
+       style="fill:#00aa00;fill-opacity:1;stroke:none"
+       d="m -1053.2066,101.75804 c 24.0766,16.49652 -5.7988,17.79316 25.131,44.22984 23.0676,-29.53883 11.0756,8.59404 12.0542,-35.36734 -9.9473,-85.964282 331.54073,448.08943 18.71134,473.81415 -97.99334,-9.66571 -235.35454,33.87911 -293.11594,-73.7031 -53.1994,-107.33522 4.0508,-251.21911 116.4765,-292.7984 47.7128,-30.57513 91.2465,-145.763548 120.7429,-116.17515 z"
+       id="path2985"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#00aa00;fill-opacity:1;stroke:none"
+       d="m -1062.4227,-138.73634 c 139.68699,78.574663 33.8365,99.287332 28.0296,212.58821 16.4354,-6.391388 7.8654,69.5684 2.239,52.85568 -65.3178,-120.814652 77.85123,-138.363419 -25.756,-241.58834 -10.6885,-11.98772 -2.6465,-6.99288 -4.5126,-23.85555 z"
+       id="path2987"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#00aa00;fill-opacity:1;stroke:none"
+       d="m -1189.5728,39.934662 c 78.2786,37.989448 95.6385,-76.757579 146.9098,-127.355298 -180.5918,-24.109214 -163.5872,120.448198 -146.9098,127.355298 z"
+       id="path2985-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-62.695276"
+       inkscape:transform-center-y="49.781094" />
+  </g>
+</svg>
