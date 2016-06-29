@@ -1,3 +1,4 @@
+import { Meteor } from 'meteor/meteor';
 import { Template } from 'meteor/templating';
 import { Tasks } from '../api/tasks.js';
 import { ReactiveDict } from 'meteor/reactive-dict';
@@ -28,7 +29,9 @@ Template.body.events({
 		evt.preventDefault();
 		Tasks.insert({
 			text:evt.target.text.value,
-			createdAt: new Date()
+			createdAt: new Date(),
+			owner:Meteor.userId(),
+			username:Meteor.user().username,
 		});
 		evt.target.text.value = '';
 	},
