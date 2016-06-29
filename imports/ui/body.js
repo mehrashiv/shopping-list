@@ -7,6 +7,7 @@ import './body.html';
  
 Template.body.onCreated(function bodyOnCreated() {
 	this.state = new ReactiveDict()
+	Meteor.subscribe('tasks');
 });
 
 Template.body.helpers({
@@ -27,12 +28,13 @@ Template.body.helpers({
 Template.body.events({
 	"submit .new-task"(evt) {
 		evt.preventDefault();
-		Tasks.insert({
-			text:evt.target.text.value,
-			createdAt: new Date(),
-			owner:Meteor.userId(),
-			username:Meteor.user().username,
-		});
+		Meteor.call('tasks.insert', evt.target.text.value);
+		// Tasks.insert({
+		// 	text:evt.target.text.value,
+		// 	createdAt: new Date(),
+		// 	owner:Meteor.userId(),
+		// 	username:Meteor.user().username,
+		// });
 		evt.target.text.value = '';
 	},
 	'change .hide-completed input'(evt, instance) {
